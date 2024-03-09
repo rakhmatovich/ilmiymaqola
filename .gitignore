@@ -1,0 +1,32 @@
+.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+monday
+sys
+data/
+sys
+package.json
+yarn.lock
+.idea
+
+deploy/certificates/*
+# Local Netlify folder
+.netlify
+
